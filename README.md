@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LeevenP
-- 👀 I’m interested in all things DevOps/Automation/Azure/IaC
+- 👀 I’m interested in all things DevOps/Automation/Cloud/IaC
 - 🌱 I’m currently learning Terraform
 - 💞️ I’m looking to collaborate on all things Platform engineering and DevOps related
 - 📫 How to reach me ...
